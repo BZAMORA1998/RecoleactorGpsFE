@@ -1,0 +1,21 @@
+.container-fluid{
+    background-color: #16b590;
+}
+
+.card-text{
+    font-size: 26px;
+}
+
+.card-img-top{
+    background-color: #16b590;
+}
+
+.card{
+    border: 1px solid #16b590;
+    border-radius: 15px
+}
+
+.card-img-top{
+    border-radius: 14px;
+}
+
